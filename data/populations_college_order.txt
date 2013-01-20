@@ -1,0 +1,100 @@
+24 	Washington 	District of Columbia 	601,723 	61.0 	9,864.3
+10 	San Jose 	California 	945,942 	176.5 	5,359.4
+168 	Bridgeport 	Connecticut 	144,229 	16.0 	9,014.3
+13 	San Francisco 	California 	805,235 	46.9 	17,169.2
+82 	Madison 	Wisconsin 	233,209 	76.8 	3,036.6
+22 	Boston 	Massachusetts 	617,594 	48.3 	12,786.6
+43 	Raleigh 	North Carolina 	403,892 	142.9 	2,826.4
+14 	Austin 	Texas 	790,390 	297.9 	2,653.2
+26 	Denver [f] 	Colorado 	600,158 	153.3 	3,979.3
+48 	Minneapolis 	Minnesota 	382,578 	54.0 	7,084.8
+23 	Seattle 	Washington 	608,660 	83.9 	7,254.6
+1 	New York 	New York 	8,175,133 	302.6 	27,016.3
+232 	Provo 	Utah 	112,488 	41.7 	2,697.6
+21 	Baltimore 	Maryland 	620,961 	80.9 	7,675.7
+200 	Hartford 	Connecticut 	124,775 	17.4 	7,171.0
+40 	Atlanta 	Georgia 	420,003 	133.2 	3,153.2
+41 	Colorado Springs 	Colorado 	416,427 	194.5 	2,141.0
+3 	Chicago 	Illinois 	2,695,598 	227.6 	11,843.6
+8 	San Diego 	California 	1,307,402 	325.2 	4,020.3
+0 97,856
+5 	Philadelphia 	Pennsylvania 	1,526,006 	134.1 	11,379.6
+42 	Omaha 	Nebraska 	408,958 	127.1 	3,217.6
+29 	Portland 	Oregon 	583,776 	134.3 	4,346.8
+98 	Rochester 	New York 	210,565 	35.8 	5,881.7
+127 	Worcester 	Massachusetts 	181,045 	37.4 	4,840.8
+15 	Columbus 	Ohio 	787,033 	217.2 	3,623.5
+37 	Kansas City 	Missouri 	459,787 	315.0 	1,459.6
+17 	Charlotte 	North Carolina 	731,424 	297.7 	2,456.9
+106 	Des Moines 	Iowa 	203,433 	80.9 	2,514.6
+210 	Charleston 	South Carolina 	120,083 	109.0 	1,101.7
+53 	Honolulu [b] 	Hawaii 	337,256 	60.5 	5,574.5
+189 	New Haven 	Connecticut 	129,779 	18.7 	6,940.1
+28 	Milwaukee 	Wisconsin 	594,833 	96.1 	6,189.7
+105 	Richmond [e] 	Virginia 	204,214 	59.8 	3,414.9
+9 	Dallas 	Texas 	1,197,816 	340.5 	3,517.8
+2 	Los Angeles 	California 	3,792,621 	468.7 	8,091.8
+0 32,736
+112 	Oxnard 	California 	197,899 	26.9 	7,356.8
+12 	Indianapolis[f] 	Indiana 	820,445 	361.4 	2,270.2
+0 82,825      
+33 	Tucson 	Arizona 	520,116 	226.7 	2,294.3
+58 	St. Louis [d] 	Missouri 	319,294 	61.9 	5,158.2
+192 	Columbia 	South Carolina 	129,272 	132.2 	977.9
+25 	Nashville [f] 	Tennessee 	601,222 	475.1 	1,265.5
+35 	Sacramento 	California 	466,488 	97.9 	4,764.9
+62 	Cincinnati 	Ohio 	296,943 	77.9 	3,811.8
+32 	Albuquerque 	New Mexico 	545,852 	187.7 	2,908.1
+167 	Syracuse 	New York 	145,170 	25.0 	5,806.8
+155 	Springfield 	Massachusetts 	153,060 	31.9 	4,798.1
+59 	Pittsburgh 	Pennsylvania 	305,704 	55.4 	5,518.1
+125 	Salt Lake City 	Utah 	186,440 	111.1 	1,678.1
+130 	Knoxville 	Tennessee 	178,874 	98.5 	1,816.0
+0 49,528
+39 	Virginia Beach [e] 	Virginia 	437,994 	249.0 	1,759.0
+110 	Akron 	Ohio 	199,110 	62.0 	3,211.5
+131 	Providence 	Rhode Island 	178,042 	18.4 	9,676.2
+4 	Houston 	Texas 	2,099,451 	634 	3,311.4
+104 	Boise [City] 	Idaho 	205,671 	79.4 	2,590.3
+135 	Jackson 	Mississippi 	173,514 	111.0 	1,563.2
+70 	Buffalo 	New York 	261,310 	40.4 	6,468.1
+44 	Miami 	Florida 	399,457 	35.9 	11,126.9
+79 	Orlando 	Florida 	238,300 	102.4 	2,327.1
+45 	Cleveland 	Ohio 	396,815 	77.7 	5,107.0
+31 	Oklahoma City 	Oklahoma 	579,999 	606.4 	956.5
+18 	Detroit 	Michigan 	713,777 	138.8 	5,142.5
+6 	Phoenix 	Arizona 	1,445,632 	516.7 	2,797.8
+49 	Wichita 	Kansas 	382,368 	159.3 	2,400.3
+11 	Jacksonville[g] 	Florida 	821,784 	747.0 	1,100.1
+0 58,409
+0 55,759
+52 	New Orleans 	Louisiana 	343,829 	169.4 	2,029.7
+85 	Baton Rouge 	Louisiana 	229,493 	76.9 	2,984.3
+215 	Allentown 	Pennsylvania 	118,032 	17.5 	6,744.7
+97 	Birmingham 	Alabama 	212,237 	146.1 	1,452.7
+124 	Grand Rapids 	Michigan 	188,040 	44.4 	4,235.1
+55 	Tampa 	Florida 	335,709 	113.4 	2,960.4
+118 	Little Rock 	Arkansas 	193,524 	119.2 	1,623.5
+0 741,096
+69 	Greensboro 	North Carolina 	269,666 	126.5 	2,131.7
+7 	San Antonio 	Texas 	1,327,407 	460.9 	2,880.0
+20 	Memphis 	Tennessee 	646,889 	315.1 	2,053.0
+267 	Palm Bay 	Florida 	103,190 	65.7 	1,570.6
+46 	Tulsa 	Oklahoma 	391,906 	196.8 	1,991.4
+116 	Augusta [f] 	Georgia 	195,844 	302.5 	647.4
+174 	Dayton 	Ohio 	141,527 	55.7 	2,540.9
+66 	Toledo 	Ohio 	287,208 	80.7 	3,559.0
+148 	Lancaster 	California 	156,633 	94.3 	1,661.0
+152 	Cape Coral 	Florida 	154,305 	105.7 	1,459.8
+139 	Chattanooga 	Tennessee 	167,674 	137.2 	1,222.1
+0 76,089
+30 	Las Vegas 	Nevada 	583,756 	135.8 	4,298.6
+34 	Fresno 	California 	494,665 	112.0 	4,416.7
+19 	El Paso 	Texas 	649,121 	255.2 	2,543.6
+61 	Riverside 	California 	303,871 	81.1 	3,746.9
+0 66,982
+0 94,406
+65 	Stockton 	California 	291,707 	61.7 	4,727.8
+107 	Modesto 	California 	201,165 	36.9 	5,451.6
+188 	McAllen 	Texas 	129,877 	48.3 	2,689.0
+51 	Bakersfield 	California 	347,483 	142.2 	2,443.6
